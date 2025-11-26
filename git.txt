@@ -1,0 +1,14 @@
+git and git-hub / git-lad
+===============
+-->it is a code collobration tool.
+           or
+-->it is a application collobration tool.
+
+git
+===
+-->git a open source version controll tool where it will 
+   installed interally by the programmers in their laptop.
+
+git-hub
+======
+-->it is a cloud storage
